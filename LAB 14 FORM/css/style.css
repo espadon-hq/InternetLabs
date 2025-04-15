@@ -1,0 +1,14 @@
+#svf-feedback-form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+#svf-feedback-form input,
+#svf-feedback-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.svf-thank-you {
+    color: green;
+    font-weight: bold;
+}
